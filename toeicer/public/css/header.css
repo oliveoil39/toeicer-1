@@ -1,0 +1,28 @@
+.bi {
+    vertical-align: -0.125em;
+    fill: currentColor;
+}
+
+.form-control-dark {
+    color: #fff;
+    background-color: var(--bs-dark);
+    border-color: var(--bs-gray);
+}
+.form-control-dark:focus {
+    color: #fff;
+    background-color: var(--bs-dark);
+    border-color: #fff;
+    box-shadow: 0 0 0 0.25rem #ffffff40;
+}
+
+i {
+    font-size: 20px;
+}
+
+.toeicer {
+    font-weight: bold;
+}
+
+.navnav:hover {
+    opacity: 0.3;
+}
